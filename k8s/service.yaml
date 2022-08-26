@@ -8,4 +8,4 @@ spec:
     app.kubernetes.io/name: httpenv
   ports:
     - protocol: TCP
-      port: 9192
+      port: 8888
