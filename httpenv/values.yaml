@@ -4,6 +4,8 @@
 
 replicaCount: 1
 
+containerPort: 8888
+
 image:
   repository: bretfisher/httpenv
   pullPolicy: IfNotPresent
