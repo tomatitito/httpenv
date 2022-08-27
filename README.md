@@ -5,5 +5,5 @@ Kubernetes and helm stuff to use the [httpenv](https://hub.docker.com/r/bretfish
 ## Use
 
 ```shell
-helm upgrade -i --namespace default httpenv . --version 0.1.0
+helm upgrade -i --namespace default helm . --version 0.1.0
 ```
